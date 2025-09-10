@@ -1,2 +1,2 @@
 # Transcritor
-Projeto de Transcrição de audio uilizando lib Open AI Whisper
+Projeto de Transcrição de audio utilizando a biblioteca Open AI Whisper
